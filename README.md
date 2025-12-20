@@ -1,5 +1,4 @@
 ## Bio
-- Site: https://weslleyskah.github.io/index.md.html
 - CV: https://weslleyskah.github.io/resume/resume_weslley_batista.pdf
 - Contact: weslleyskah@gmail.com
 
